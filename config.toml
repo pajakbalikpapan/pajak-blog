@@ -1,0 +1,41 @@
+baseURL = "http://pajakbalikpapan.github.io/"
+languageCode = "en-us"
+title = "Layanan Pajak Balikpapan"
+theme = "kube"
+description = "Melayani kebutuhan anda terhadap pemenuhan kewajiban perpajakan untuk lebih patuh dan tertib perpajakan"
+pagination = 10
+author ="La Ode Adam Saputra"
+[build]
+  writeStats = true
+
+[[menu.main]]
+    name = "Layanan"
+    weight = 10
+    url = "/layanan/"
+[[menu.main]]
+    name = "Kontak"
+    weight = 30
+    url = "/contact/"
+[[menu.main]]
+    name = "Pricing"
+    weight = 20
+    url = "/pricing/"
+# [[menu.main]]
+#     name = "Blog"
+#     weight = -100
+#     url = "/blog/"
+# [[menu.main]]
+#     name = "Faq"
+#     weight = -100
+#     url = "/faq/"
+[taxonomies]
+	category = "categories"
+
+[params]
+  noindex_kinds = [
+    "taxonomy",
+    "taxonomyTerm"
+  ]
+
+[Params.seo.webmaster_verifications]
+  google = "UA-176078354-1" # Optional, Google verification code
