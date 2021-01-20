@@ -1,0 +1,18 @@
+pricing:
+  - judul: Pricing
+    tagline: Pilih paket yang sesuai untuk Anda 
+    tagline2: "Harga mulai Rp.200.000 per paket"
+    detil:
+    - title: Pay As You Go
+      desc: 
+        - title: konsultasi perpajakan
+        - title: Pilih jasa yang anda butuhkan
+
+      harga: Rp.200.000
+    - title: All In One
+      desc: 
+        - title: seluruh layanan di direktori perpajakan
+        - title: tax planning
+        - title: tax review
+      harga: Rp.2.000.000
+      featured: true

@@ -1,0 +1,176 @@
+direktori:
+  - name: Registrasi
+    alias: Registrasi
+    layanan: 
+    - title: Pendaftaran Awal
+    - title: Perubahan Data Wajib Pajak dan/atau Pengusaha Kena Pajak
+    - title: Pemindahan Wajib Pajak
+    - title: Permohonan Pelaporan Usaha dan Pengukuhan PKP
+    - title: Penetapan Wajib Pajak sebagai Wajib Pajak Non Efektif
+    - title: Pengaktifan Kembali Wajib Pajak Non efektif
+    - title: Cetak Ulang Kartu NPWP/SKT/SPPKP           
+    - title: Aktivasi Efin
+    - title: Aktivasi Akun Pengusaha Kena Pajak
+    - title: Cetak Ulang Kode Aktivasi
+    - title: Aktivasi Sertifikat Elektronik
+    - title: Surat Kuasa Khusus
+    - title: Penghapusan NPWP
+    - title: Pencabutan Pengukuhan PKP
+    - title: Pencabutan Sertifikat Elektronik
+  - name: Pembukuan
+    layanan: 
+    - title: "Penggunaan Nilai Buku atas Pengalihan dan Perolehan Harta Dalam Rangka Penggabungan, Peleburan, Pemekaran, atau Pengambilalihan Usaha"
+    - title: Izin Menyelenggarakan Pembukuan dalam Bahasa Inggris dan Mata Uang Dollar Amerika Serikat
+    - title: Pemberitahuan Menyelenggarakan Pembukuan dalam Bahasa Inggris dan Mata Uang Dollar Amerika Serikat
+    - title: Izin Menyelenggarakan Pembukuan Dengan Menggunakan Bahasa Indonesia dan Satuan Mata Uang Rupiah
+    - title: Permohonan Perubahan Metode Pembukuan
+    - title: Permintaan Perubahan Tahun Buku Pertama
+    - title: Permintaan Perubahan Metode Pembukuan Dan/Atau Tahun Buku Kedua, dan Seterusnya
+    - title: Pencabutan Izin Menyelenggarakan Pembukuan dengan Menggunakan Bahasa Inggris dan Satuan Mata Uang Dollar Amerika Serikat
+    - title: Penerbitan Kembali Izin Menyelenggarakan Pembukuan dengan Menggunakan Bahasa Inggris dan Satuan Mata Uang Dollar Amerika Serikat
+    - title: "Pembatalan Izin Menyelenggarakan Pembukuan dengan Menggunakan Bahasa Inggris dan Satuan Mata Uang Dollar Amerika Serikat"
+    - title: "Pemberitahuan Pembatalan Izin Menyelenggarakan Pembukuan dengan Menggunakan Bahasa Inggris dan Satuan Mata Uang Dollar Amerika Serikat"
+  - name: Pembayaran Pajak
+    layanan: 
+    - title: "Pembayaran dan Penyetoran Pajak"
+    - title: "Pengangsuran Pembayaran PPh Pasal 29"
+    - title: "Penundaan Pembayaran PPh Pasal 29"
+    - title: "Pengurangan Angsuran PPh Pasal 25"
+    - title: "Angsuran PPh Pasal 25 Wajib Pajak Bank, Sewa Guna Usaha dengan Hak Opsi, Badan Usaha Milik Negara dan Badan Usaha Milik Daerah"
+    - title: "Angsuran atas Selisih Lebih Penilaian Kembali Aktiva Tetap Perusahaan untuk Tujuan Perpajakan"
+    - title: "Pemindahbukuan (Pbk)"
+    - title: "Pengalihan Saldo Bea Meterai Dari Sistem Komputerisasi Ke Teknologi Percetakan"
+    - title: "Pengalihan Saldo Bea Meterai Dari Teknologi Percetakan Ke Sistem Komputerisasi"
+    - title: "Pemindahbukuan (Pbk) Saldo Deposit Mesin Teraan Meterai Digital"
+    - title: "Pengembalian Kelebihan Pembayaran Pajak Bumi dan Bangunan"
+    - title: "Pengembalian Kelebihan Pembayaran Pajak Bumi dan Bangunan karena Diterbitkannya Keputusan atau Putusan yang Mengakibatkan Lebih Bayar PBB"
+    - title: "Pengembalian Pendahuluan bagi Wajib Pajak dengan Kriteria Tertentu (Pasal 17C UU KUP)"
+    - title: "Restitusi dengan Pengembalian Pendahuluan bagi WP dengan Persyaratan tertentu (Pasal 17D KUP)"
+    - title: "Restitusi dengan Pengembalian Pendahuluan bagi PKP Berisiko Rendah (Pasal 9 ayat (4c) UU PPN"
+    - title: "Pengembalian PPN bagi Turis (VAT Refund for Tourists)"
+    - title: "Pengembalian atas Keputusan/Putusan Keberatan/ Banding/PK Pasal 36/Pembetulan Pasal 16"
+    - title: "Pengembalian Kelebihan Pembayaran Pajak yang Seharusnya Tidak Terutang Atas Pembayaran Pajak Oleh Pihak Pembayar"
+    - title: "Pengembalian Kelebihan Pembayaran Pajak yang Seharusnya Tidak Terutang atas Kelebihan Pajak Dalam Rangka Impor"
+    - title: "Pengembalian Kelebihan Pembayaran Pajak yang Seharusnya Tidak Terutang Atas Kesalahan Pemotongan atau Pemungutan PPh, PPN, atau PPnBM"
+    - title: "Pengembalian Kelebihan Pembayaran Pajak yang Seharusnya Tidak Terutang Atas Kesalahan Pemotongan atau Pemungutan Pajak terhadap Subjek Pajak Luar Negeri yang Memiliki Bentuk Usaha Tetap di Indonesia"
+    - title: "Pengembalian Kelebihan Pembayaran Pajak yang Seharusnya Tidak Terutang Atas Kesalahan Pemotongan atau Pemungutan Pajak terhadap Subjek Pajak Luar Negeri yang Tidak Memiliki Bentuk Usaha Tetap di Indonesia"
+    - title: "Pengembalian Kelebihan Pembayaran Pajak yang Seharusnya Tidak Terutang Atas Kesalahan Pemotongan atau Pemungutan Pajak terhadap Orang Pribadi atau Badan ya Tidak Diwajibkan Memiliki NPWP"
+    - title: "Pemberian Imbalan Bunga"
+  - name: Pelaporan SPT
+    layanan: 
+    - title: "Pelaporan SPT Masa PPh Pasal 21/26"
+    - title: "Pelaporan SPT Masa PPh Pasal 22"
+    - title: "Pelaporan SPT Masa PPh Pasal 23/26"
+    - title: "Pelaporan SPT Masa PPh Pasal 15"
+    - title: "Pelaporan SPT Masa PPh Pasal 25"
+    - title: "Pelaporan SPT Masa PPh Pasal 4(2)"
+    - title: "Pelaporan SPT Masa PPN 1111"
+    - title: "Pelaporan SPT Masa PPN 1111DM"
+    - title: "Pelaporan SPT Masa PPN 1107 Pemungut"
+    - title: "Pelaporan SPT Tahunan PPh 1770 SS"
+    - title: "Pelaporan SPT Tahunan PPh 1770 S"
+    - title: "Pelaporan SPT Tahunan PPh 1770"
+    - title: "Pelaporan SPT Tahunan PPh 1771"
+    - title: "Pelaporan SPT Pembetulan"
+    - title: "Pemberitahuan Penggunaan Norma Penghitungan"
+    - title: "Pemberitahuan Perpanjangan Jangka Waktu Penyampaian SPT Tahunan"
+    - title: "Pengungkapan Ketidakbenaran pengisian SPT"
+    - title: "Laporan Pengalihan dan Realisasi Investasi Harta Tambahan dan Laporan Penempatan Harta Tambahan yang Berada di dalam Wilayah NKRI"
+    - title: "Pelaporan SPT Masa PPh Final Pengungkapan Harta Bersih"
+  - name: Pemeriksaan
+    layanan: 
+    - title: "Permohonan Pembahasan Hasil Pemeriksaan Oleh Tim Quality Assurance Pemeriksaan"
+    - title: "Pengungkapan Ketidakbenaran Perbuatan"
+    - title: "Permintaan Penghentian Penyidikan Tindak Pidana di Bidang Perpajakan Untuk Kepentingan Penerimaan Negara"
+  - name: Sengketa Pajak
+    layanan:
+    - title: "Permintaan keterangan Wajib Pajak dalam rangka Pengajuan Keberatan"
+    - title: "Keberatan"
+    - title: "Pencabutan Keberatan"
+    - title: "Permintaan Keterangan Wajib Pajak dalam Rangka Banding"
+    - title: "Pembetulan (Pasal 16 UU KUP)"
+    - title: "Pengurangan atau penghapusan sanksi administrasi (Pasal 36 Ayat 1a UU KUP)"
+    - title: "Pengurangan atau pembatalan surat ketetapan pajak yang Tidak benar (Pasal 36 Ayat 1b UU KUP)"
+    - title: "Pengurangan atau pembatalan Surat Tagihan Pajak yang Tidak benar (Pasal 36 Ayat 1c UU KUP)"
+    - title: "Pembatalan Surat Ketetapan Pajak dari Hasil Pemeriksaan (Pasal 36 Ayat 1d UU KUP)"
+    - title: "Pencabutan Permohonan Pasal 36 UU KUP"
+    - title: "Pengurangan Denda Administrasi PBB (Pasal 20 UU PBB)"
+    - title: "Pengurangan Surat Pemberitahuan Pajak Terutang atau Surat Ketetapan Pajak PBB yang Tidak Benar"
+    - title: "Pembatalan Surat Pemberitahuan Pajak Terutang, Surat Ketetapan Pajak PBB, atau Surat Tagihan Pajak PBB yang Tidak Benar"
+    - title: "Pengurangan Pajak Bumi dan Bangunan"
+  - name: Penagihan Pajak
+    layanan:
+    - title: "Pengangsuran Pembayaran Pajak"
+    - title: "Penundaan Pembayaran Pajak"
+    - title: "Perpanjangan Jangka Waktu Pelunasan Pajak"
+    - title: "Pembatalan Pengumuman Lelang"
+    - title: "Pemberian Rehabilitasi Nama Baik Penanggung Pajak yang Disandera"
+  - name: Layanan Administrasi
+    layanan:
+    - title: "Izin Pembubuhan Tanda Bea Meterai Lunas dengan Mesin Teraan Meterai Digital"
+    - title: "Pembetulan Izin Pembubuhan Tanda Bea Meterai Lunas  Dengan Mesin Teraan Meterai Digital Berdasarkan Permohonan Wajib Pajak"
+    - title: "Pencabutan Izin Pembubuhan Tanda Bea Meterai Lunas  Dengan Mesin Teraan Meterai Digital Berdasarkan Permohonan Wajib Pajak"
+    - title: "Izin Pembubuhan Tanda Bea Meterai Lunas Dengan Sistem Komputerisasi"
+    - title: "Izin Pembubuhan Tanda Bea Meterai Lunas Dengan Teknologi Percetakan"
+    - title: "Izin sebagai pelaksana Pembubuhan Tanda Bea Meterai Lunas Dengan Teknologi Percetakan"
+    - title: "Wajib Pajak Dengan Kriteria Tertentu"
+    - title: "Pengusaha Kena Pajak Berisiko Rendah"
+    - title: "PKP Toko Retail ya Berpartisipasi Dalam Skema Pengembalian PPN Kepada Orang Pribadi Pemegang Paspor Luar Negeri"
+    - title: "Fasilitas pengurangan Pajak Penghasilan Badan untuk industri pionir"
+    - title: "Penetapan Saat Dimulainya Saat Berproduksi Secara Komersial"
+    - title: "Pemusatan Tempat PPN Terutang"
+    - title: "Penambahan dan/atau Pengurangan Pemusatan Tempat PPN Terutang"
+    - title: "Perubahan Tempat Pemusatan PPN Terutang"
+    - title: "Perpanjangan Pemusatan Tempat PPN Terutang"
+    - title: "Pencabutan Pemusatan Tempat PPN Terutang"
+    - title: "Penilaian Kembali Aktiva Tetap Perusahaan Untuk Tujuan Perpajaka"
+    - title: "Penetapan Masa Manfaat atas Harta Berwujud Bukan Bangunan dan Harta Tidak Berwujud"
+    - title: "Penetapan Atas Saat Mulainya Penyusutan Harta Berwujud yang Dapat Dilakukan Pada Bulan Digunakan atau Bulan Mulai Menghasilkan"
+    - title: "Permohonan Pemberian Fasilitas Untuk Bidang Usaha/Daerah Tertentu (PP 18/2015)"
+    - title: "Penetapan Penambahan Jangka Waktu Kompensasi Kerugian"
+    - title: "Pemberian Fasilitas untuk Kawasan Pengembangan Ekonomi Terpadu (KAPET)"
+    - title: "Surat Keterangan Fiskal"
+    - title: "Surat Keterangan Pemenuhan Kewajiban Perpajakan Bakal Calon Kepala Daerah"
+    - title: "Permohonan SKB PPh Pasal 21/Pasal 22 selain impor, Pasal 22 impor/PPh Pasal 23"
+    - title: "SKB PPh Pasal 22 atas impor emas batangan dari Wajib Pajak ya bergerak dalam bidang industri perhiasan emas untuk tujuan ekspor"
+    - title: "Permohonan SKB Pemotongan Pajak Penghasilan atas Bunga Deposito dan Tabungan Serta Diskonto Sertifikat Bank Indonesia ya Diterima atau Diperoleh Dana Pensiun ya Pendiriannya telah Disahkan oleh Menteri Keuangan"
+    - title: "Surat Keterangan Bebas PPh atas Penghasilan dari Pengalihan Hak atas Tanah dan atau Bangunan"
+    - title: "Surat Keterangan Bebas PPh atas Penghasilan dari Pengalihan Hak atas Tanah dan/atau Bangunan Bagi Wajib Pajak ya Usaha Pokoknya Melakukan Pengalihan Hak atas Tanah dan/atau Bangunan"
+    - title: "Surat Keterangan Bebas Pemotongan dan/atau Pemungutan PPh Bagi Wajib Pajak ya Dikenai PPh Berdasarkan Peraturan Pemerintah Nomor 46 Tahun 2013"
+    - title: "Surat Keterangan Bebas PPN atas Impor dan/atau Penyerahan Barang Kena Pajak Tertentu dan/atau Penyerahan Jasa Kena Pajak Tertentu"
+    - title: "Surat Keterangan Bebas PPN atas Impor dan/atau Penyerahan Barang Kena Pajak Tertentu ya Bersifat Strategis"
+    - title: "Pembatalan Surat Keterangan Bebas PPN Barang Kena Pajak Strategis"
+    - title: "SKB Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan Atas Barang Mewah Kepada Perwakilan Negara Asing dan Badan Internasional Serta Pejabatnya"
+    - title: "Surat Keterangan Bebas PPnBM atas Impor atau Penyerahan Kendaraan Ambulan, Kendaraan Jenazah, Kendaraan Pemadam Kebakaran, Kendaraan Tahanan, dan Kendaraan Angkutan Umum"
+    - title: "Surat Keterangan Bebas PPnBM atas Impor atau Penyerahan Kendaraan Protokoler Kenegaraan, Kendaraan Dinas atau Kendaraan Patroli TNI/Polri"
+    - title: "Surat Keterangan Tidak Dipungut"
+    - title: "Pembatalan Surat Keterangan Tidak Dipungut"
+    - title: "Rencana Kebutuhan Impor dan Perolehan Perubahan"
+    - title: "Surat Keterangan Domisili SPDN"
+    - title: "Nomor Seri Faktur Pajak"
+    - title: "Permintaan Data Faktur Pajak Berbentuk Elektronik (e-Faktur)"
+    - title: "Surat Dispensasi atas Pengalihan Barang Kena Pajak sebagaimana atau pengalihmanfaatan Jasa Kena Pajak ya dilakukan kepada sesama Perwakilan Negara Asing, Badan Internasional, Pejabat Perwakilan Negara Asing, dan/atau Pejabat Badan Internasional, Pajak Pertambahan Nilai atau Pajak Pertambahan Nilai dan Pajak Penjualan atas Barang Mewah"
+    - title: "Surat Keterangan Penelitian Formal Bukti Pemenuhan Kewajiban Penyetoran PPh atas Pengalihan Hak atas Tanah dan/atau Bangunan atau Perubahan Perjanjian Pengikatan Jual Beli atas Tanah dan/atau Bangunan"
+    - title: "Penggunaan Stempel Tanda Tangan Pada Bukti Pemotongan PPh Pasal 21 dan Pasal 26"
+    - title: "Penggunaan Stempel Tanda Tangan Pada Bukti Pemotongan PPh Bunga Deposito, Tabungan, Jasa Giro, dan Diskonto Sertifikat Bank Indonesia"
+    - title: "Penggunaan Stempel Tanda Tangan Pada Bukti Pemotongan PPh Pasal 4 ayat (2) atas Pembayaran Bunga Kepada Nasabah Pemegang Surat Utang Negara Obligasi Republik Indonesia (SUN-ORI)"
+    - title: "Penggunaan Stempel Tanda Tangan Pada Bukti Pemotongan PPh atas Pembayaran Dividen Kepada Para Pemegang Saham"
+    - title: "Permintaan pelaksanaan Prosedur Persetujuan Bersama (Mutual Agreement Procedure)"
+    - title: "Kesepakatan Harga Transfer (Advance Pricing Agreement)"
+    - title: "Legalisasi SKB PPh 21/22/23"
+    - title: "Legalisasi Surat Keterangan Bebas PPh Pasal 21/22/23 terkait Peraturan Pemerintah Nomor 46 Tahun 2013"
+    - title: "Legalisasi Surat Keterangan Domisili"
+    - title: "Cetak Ulang SPPT PBB"
+    - title: "Endorsement atas Pemasukan Barang Kena Pajak Berwujud dari Tempat Lain Dalam Daerah Pabean (TLDDP) ke Kawasan Bebas"
+    - title: "Endorsement atas Pemasukan Barang Kena Pajak Berwujud dari Tempat Lain Dalam Daerah Pabean (TLDDP) ke Kawasan Bebas Sabang"
+    - title: "Pemberitahuan Pelaporan Surat Pemberitahuan Masa Bagi Wajib Pajak dengan Kriteria Tertentu ya dapat Melaporkan Beberapa Masa Pajak dalam Satu Surat Pemberitahuan Masa"
+    - title: "Pemberitahuan Informasi Layanan Publik"
+    - title: "Penerbitan atau Peningkatan Surat Izin Konsultan Pajak"
+    - title: "Penerbitan Kembali atau Perpanjangan Kartu Tanda Pengenal Konsultan Pajak"
+    - title: "Pencabutan Surat izin Konsultan Pajak"
+    - title: "Penetapan Angsuran Pajak Penghasilan Pasal 25 Wajib Pajak Bank, Sewa Guna Usaha Dengan Hak Opsi, Badan Usaha Milik Negara Dan Badan Usaha Milik Daerah"
+    - title: "Konfirmasi Status Wajib Pajak (KSWP)"
+    - title: "Pemberian Surat Keterangan Pemanfaatan Jasa Kena Pajak dari Luar Daerah Pabean di Dalam Daerah Pabean (SKJLN)"
+    - title: "Pemberian Surat Keterangan Memenuhi Kriteria Sebagai Wajib Pajak Berdasarkan Peraturan Pemerintah Nomor 23 Tahun 2018"
+    - title: "Permohonan Penilaian Harta untuk Tujuan Penyampaian SPT Masa PPh Final Pengungkapan Harta Bersih"
+    - title: "Klarifikasi atas Penerbitan Keputusan Direktur Jenderal Pajak tentang Penetapan Status Suspend terhadap Wajib Pajak yang Terindikasi Menerbitkan Faktur Pajak Tidak Sah"
