@@ -9,8 +9,8 @@ featured = true
 price = 500000
 startfrom = true
 paket = true
+summary = "Kewajiban untuk melaporkan penghitungan dan/atau pembayaran PPN dan/atau PPnBM, objek dan/atau bukan objek PPN dan/atau PPnBM"
 +++
-### Pelaporan SPT Masa PPN 1111
 Kewajiban untuk melaporkan penghitungan dan/atau pembayaran PPN dan/atau PPnBM, objek dan/atau bukan objek PPN dan/atau PPnBM untuk suatu Masa Pajak sesuai dengan ketentuan peraturan perundang-undangan perpajakan bagi Pengusaha Kena Pajak yang yang tidak menggunakan pedoman penghitungan pengkreditan pajak masukan.
 
 ### Prosedur

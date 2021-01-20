@@ -6,10 +6,9 @@ weight = 40
 toc = false
 categories ="Pelaporan SPT"
 price = 100000
+summary = "Laporan Pajak untuk Orang Pribadi Karyawan dengan jumlah penghasilan bruto tidak lebih dari Rp60.000.000,00 (enam puluh juta) setahun"
 +++
-### elaporan SPT Tahunan PPh Orang Pribadi 1770 SS
 Kewajiban untuk melaporkan penghasilan selain dari usaha dan/atau pekerjaan bebas dengan jumlah penghasilan bruto tidak lebih dari Rp60.000.000,00 (enam puluh juta) setahun bagi Wajib Pajak orang pribadi.
-
 ### Prosedur
 Wajib Pajak orang pribadi menyampaikan SPT Tahunan:
 1. secara langsung;

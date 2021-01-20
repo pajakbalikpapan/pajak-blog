@@ -8,9 +8,9 @@ categories ="Pelaporan SPT"
 price = 500000
 startfrom = true
 featured = true 
+summary = "Laporan Pajak untuk Orang Pribadi Pengusaha, Pekerjaan Bebas, Karyawan"
 +++
-### Pelaporan SPT Tahunan PPh Orang Pribadi 1770
-Kewajiban untuk melaporkan penghitungan dan/atau pembayaran pajak, objek pajak dan/atau bukan pajak, dan/atau harta dan kewajiban sesuai dengan ketentuan peraturan perundang-undangan untuk suatu Tahun Pajak atau Bagian Tahun Pajak bagi Wajib Pajak orang pribadi. 
+Kewajiban untuk melaporkan penghitungan dan/atau pembayaran pajak, objek pajak dan/atau bukan pajak, dan/atau harta dan kewajiban sesuai dengan ketentuan peraturan perundang-undangan untuk suatu Tahun Pajak atau Bagian Tahun Pajak bagi Wajib Pajak orang pribadi.
 
 SPT Tahunan PPh Wajib Pajak Orang Pribadi 1770 digunakan untuk melaporkan penghasilan:
 1. dari usaha/pekerjaan bebas;

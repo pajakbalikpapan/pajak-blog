@@ -7,9 +7,9 @@ toc = false
 categories ="Pelaporan SPT"
 price = 200000
 startfrom = true
-featured = true 
+featured = true
+summary = "Laporan Pajak untuk Orang Pribadi Karyawan" 
 +++
-### Pelaporan SPT Tahunan PPh Orang Pribadi 1770 S
 Kewajiban untuk melaporkan pajak atas penghasilan:
 1. dari satu atau lebih pemberi kerja;
 2. dalam negeri lainnya; dan/atau

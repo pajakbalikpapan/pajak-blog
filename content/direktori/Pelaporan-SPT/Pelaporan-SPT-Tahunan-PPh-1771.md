@@ -8,10 +8,10 @@ categories ="Pelaporan SPT"
 price = 2000000
 startfrom = true
 featured = true 
+summary = "Laporan Pajak untuk Badan usaha antara lain PT,CV Yayasan, Perkumpulan, Koperasi" 
 +++
-### Pelaporan SPT Tahunan PPh Badan 1771
 Kewajiban untuk melaporkan penghitungan dan/atau pembayaran pajak, objek pajak dan/atau bukan pajak, dan/atau harta dan kewajiban
-sesuai dengan ketentuan peraturan perundang-undangan untuk suatu Tahun Pajak atau Bagian Tahun Pajak bagi Wajib Pajak badan. 
+sesuai dengan ketentuan peraturan perundang-undangan untuk suatu Tahun Pajak atau Bagian Tahun Pajak bagi Wajib Pajak badan.
 
 ### Prosedur
 Wajib Pajak badan menyampaikan SPT Tahunan:

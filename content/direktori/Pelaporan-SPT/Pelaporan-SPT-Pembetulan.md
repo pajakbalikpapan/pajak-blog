@@ -8,8 +8,8 @@ categories ="Pelaporan SPT"
 price = 2000000
 startfrom = true
 featured = true 
+summary = "Hak Wajib Pajak yang dengan kemauan sendiri dapat membetulkan SPT yang telah disampaikan."
 +++
-### Pelaporan SPT Pembetulan
 Hak Wajib Pajak yang dengan kemauan sendiri dapat membetulkan SPT yang telah disampaikan.
 1. dalam hal Wajib Pajak membetulkan sendiri SPT Tahunan yang mengakibatkan utang pajak menjadi lebih besar, kepadanya dikenai sanksi administrasi berupa bunga sebesar 2% (dua persen) per bulan atas jumlah pajak yang kurang dibayar, dihitung sejak saat penyampaian SPT berakhir sampai dengan tanggal pembayaran, dan bagian dari bulan dihitung penuh 1 (satu) bulan.
 2. dalam hal Wajib Pajak membetulkan sendiri SPT Masa yang mengakibatkan utang pajak menjadi lebih besar, kepadanya dikenai sanksi administrasi berupa bunga sebesar 2% (dua persen) per bulan atas jumlah pajak yang kurang dibayar, dihitung sejak jatuh tempo pembayaran sampai dengan tanggal pembayaran, dan bagian dari bulan dihitung penuh 1 (satu) bulan.

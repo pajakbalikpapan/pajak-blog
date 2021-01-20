@@ -8,10 +8,9 @@ categories ="Pelaporan SPT"
 price = 1000000
 startfrom = 1
 featured = true
+summary = "Kewajiban untuk melaporkan pemotongan pajak atas penghasilan berupa gaji, upah, honorarium, tunjangan dan pembayaran lain sehubungan dengan pekerjaan atau jabatan"
 +++
-### Pelaporan SPT Masa PPh Pasal 21 dan/atau Pasal 26 
 Kewajiban untuk melaporkan pemotongan pajak atas penghasilan berupa gaji, upah, honorarium, tunjangan dan pembayaran lain dengan nama dan dalam bentuk apa pun sehubungan dengan pekerjaan atau jabatan, jasa, dan kegiatan yang dilakukan oleh orang pribadi subyek pajak dalam negeri.
-
 ### Prosedur
 Wajib Pajak orang pribadi atau badan wajib melaporkan PPh Pasal 21 dan/atau PPh Pasal 26 yang dipotong dengan menyampaikan SPT Masa PPh Pasal 21:
 1. secara langsung;
