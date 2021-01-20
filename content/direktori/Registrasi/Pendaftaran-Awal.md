@@ -5,6 +5,7 @@ draft = false
 weight = 5
 toc = false
 categories = "Registrasi"
+categories_weight = 10
 price = 2000000
 startfrom = true
 +++

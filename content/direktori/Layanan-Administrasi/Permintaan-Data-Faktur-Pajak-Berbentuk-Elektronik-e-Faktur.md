@@ -4,7 +4,7 @@ date = 2021-01-16T13:12:30+08:00
 draft = false
 weight = 11
 toc = false
-categories ="layananadministrasi"
+categories ="Layanan Administrasi"
 price = 1
 +++
 ### Permintaan Data Faktur Pajak Berbentuk Elektronik (e-Faktur)

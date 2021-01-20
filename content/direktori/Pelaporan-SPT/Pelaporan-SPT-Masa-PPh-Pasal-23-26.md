@@ -4,7 +4,7 @@ date = 2021-01-16T11:36:00+08:00
 draft = false
 weight = 52
 toc = false
-categories = "pelaporanspt"
+categories ="Pelaporan SPT"
 featured = 2000000
 startfrom = true
 +++

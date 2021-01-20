@@ -4,7 +4,7 @@ date = 2021-01-16T13:12:40+08:00
 draft = false
 weight = 51
 toc = false
-categories ="layananadministrasi"
+categories ="Layanan Administrasi"
 price = 1
 +++
 ### Legalisasi Surat Keterangan Bebas PPh Pasal 21/22/23 terkait Peraturan Pemerintah Nomor 46 Tahun 2013

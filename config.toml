@@ -8,25 +8,14 @@ author ="La Ode Adam Saputra"
 [build]
   writeStats = true
 
-[[menu.main]]
-    name = "Direktori"
-    weight = 10
-    url = "/direktori/"
-[[menu.main]]
-    name = "Harga"
-    weight = 20
-    url = "/pricing/"
-[[menu.main]]
-    name = "Kontak"
-    weight = 30
-    url = "/contact/"
-
 [params]
   noindex_kinds = [
     "taxonomy",
     "taxonomyTerm"
   ]
-    pricing = ["blog", "docs"]
 
 [Params.seo.webmaster_verifications]
   google = "UA-176078354-1" # Optional, Google verification code
+
+[taxonomies]
+  category = "categories"

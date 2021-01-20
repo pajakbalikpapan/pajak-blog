@@ -4,7 +4,7 @@ date = 2021-01-16T11:36:04+08:00
 draft = false
 weight = 73
 toc = false
-categories = "pelaporanspt"
+categories ="Pelaporan SPT"
 price = 1
 +++
 ### Pengungkapan Ketidakbenaran Pengisian SPT

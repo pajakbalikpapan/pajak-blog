@@ -5,6 +5,7 @@ draft = false
 weight = 10
 toc = false
 categories = "Registrasi"
+categories_weight = 10
 +++
 ### Pemindahan Wajib Pajak
 Layanan ini diberikan kepada Wajib Pajak yang mengajukan

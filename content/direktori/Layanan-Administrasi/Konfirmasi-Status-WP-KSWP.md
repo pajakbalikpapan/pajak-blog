@@ -4,7 +4,7 @@ date = 2021-01-16T13:12:55+08:00
 draft = false
 weight = 11
 toc = false
-categories ="layananadministrasi"
+categories ="Layanan Administrasi"
 +++
 ### Konfirmasi Status Wajib Pajak
 Layanan yang diberikan kepada Wajib Pajak dalam rangka pelaksanaan konfirmasi status Wajib Pajak atas layanan publik tertentu pada Instansi Pemerintah.

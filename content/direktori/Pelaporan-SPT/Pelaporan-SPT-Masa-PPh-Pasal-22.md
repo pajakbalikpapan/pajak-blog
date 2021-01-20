@@ -4,7 +4,7 @@ date = 2021-01-16T11:35:59+08:00
 draft = false
 weight = 51
 toc = false
-categories = "pelaporanspt"
+categories ="Pelaporan SPT"
 price = 1
 +++
 ### Pelaporan SPT Masa PPh Pasal 22

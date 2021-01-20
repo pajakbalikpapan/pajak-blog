@@ -5,7 +5,7 @@ draft = false
 weight = 10
 toc = false
 description = "SPT yang disampaikan oleh orang pribadi dengan status pengusaha, pegawai, karyawan, pegawai lepas, pegawai harian yang memiliki NPWP"
-categories = "PenagihanPajak"
+categories = "Penagihan Pajak"
 +++
 ## Deskripsi Proses
 

@@ -4,6 +4,6 @@ date = 2021-01-16T11:36:05+08:00
 draft = false
 weight = 81
 toc = false
-categories = "pelaporanspt"
+categories ="Pelaporan SPT"
 +++
 Sudah tidak berlaku

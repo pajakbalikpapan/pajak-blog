@@ -4,7 +4,7 @@ date = 2021-01-16T11:36:02+08:00
 draft = false
 weight = 40
 toc = false
-categories = "pelaporanspt"
+categories ="Pelaporan SPT"
 price = 100000
 +++
 ### elaporan SPT Tahunan PPh Orang Pribadi 1770 SS

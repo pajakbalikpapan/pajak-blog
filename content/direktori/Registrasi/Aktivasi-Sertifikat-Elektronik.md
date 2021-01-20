@@ -5,6 +5,7 @@ draft = false
 weight = 10
 toc = false
 categories = "Registrasi"
+categories_weight = 10
 +++
 ### Sertifikat Elektronik
 Layanan ini diberikan sebagai otentifikasi pengguna layanan perpajakan secara elektronik yang disediakan oleh Direktorat Jenderal Pajak.
