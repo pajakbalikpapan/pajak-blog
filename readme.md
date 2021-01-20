@@ -5,3 +5,13 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/pajakbalikpapan/pajak-blog.git
 git push -u origin main
+
+
+### deploy to ajakbalikpapan
+``` ./deploy.sh```
+
+
+### upload source
+``` ./gitpush.sh```
+
+tapi jangna lupa ```chmod u+x``` terlebih dulu
