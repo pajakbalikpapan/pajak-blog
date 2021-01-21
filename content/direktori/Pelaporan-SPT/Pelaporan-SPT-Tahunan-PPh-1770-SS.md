@@ -4,7 +4,7 @@ date = 2021-01-16T11:36:02+08:00
 draft = false
 weight = 40
 toc = false
-categories ="Pelaporan SPT"
+categories ="Pelaporan Spt"
 price = 100000
 summary = "Laporan Pajak untuk Orang Pribadi Karyawan dengan jumlah penghasilan bruto tidak lebih dari Rp60.000.000,00 (enam puluh juta) setahun"
 +++

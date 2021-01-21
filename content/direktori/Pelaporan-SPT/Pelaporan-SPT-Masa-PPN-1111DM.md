@@ -4,7 +4,7 @@ date = 2021-01-16T11:36:01+08:00
 draft = false
 weight = 62
 toc = false
-categories ="Pelaporan SPT"
+categories ="Pelaporan Spt"
 price = 1
 +++
 ### Pelaporan SPT Masa PPN 1111 DM
