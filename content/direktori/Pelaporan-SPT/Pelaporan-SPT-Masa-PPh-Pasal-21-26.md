@@ -1,5 +1,5 @@
 +++
-title = "Pelaporan SPT Masa PPh Pasal 21 26"
+title = "Pelaporan SPT Masa PPh Pasal 21/26"
 date = 2021-01-16T11:35:59+08:00
 draft = false
 weight = 50

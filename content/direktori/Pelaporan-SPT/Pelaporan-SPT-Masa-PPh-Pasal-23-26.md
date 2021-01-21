@@ -1,5 +1,5 @@
 +++
-title = "Pelaporan SPT Masa PPh Pasal 23 26 dan Ebukpot "
+title = "Pelaporan SPT Masa PPh Pasal 23/26 dan Ebukpot"
 date = 2021-01-16T11:36:00+08:00
 draft = false
 weight = 52
