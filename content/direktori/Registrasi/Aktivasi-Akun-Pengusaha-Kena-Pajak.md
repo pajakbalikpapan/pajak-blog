@@ -17,3 +17,5 @@ PKP menyampaikan permohonan aktivasi Akun PKP melalui KPP tempat PKP dikukuhkan.
 Surat permohonan kode aktivasi dan password.
 ### Jangka Waktu Penyelesaian
 Paling lama Surat Pemberitahuan Kode Aktivasi/Surat Penolakan Pemberian Kode Aktivasi dan Password diterbitkan 3 (tiga) hari kerja setelah permohonan diterima dengan lengkap.
+
+Aktivasi Akun Pengusaha Kena Pajak merupakan bagian dari layanan [Permohonan Pelaporan Usaha Dan Pengukuhan PKP]({{< ref "/direktori/registrasi/Permohonan-Pelaporan-Usaha-dan-Pengukuhan-PKP.md" >}})

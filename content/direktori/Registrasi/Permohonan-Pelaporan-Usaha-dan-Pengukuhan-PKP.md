@@ -13,9 +13,9 @@ Layanan ini diberikan kepada Pengusaha yang melakukan penyerahan yang merupakan 
 
 ### Layanan ini termasuk
 1. Pendaftaran Pengukuhan PKP
-2. Aktivasi Sertifikat Elektronik
-3. Aktivasi Akun Pengusaha Kena Pajak
-4. Aktivasi Efin
+2. [Aktivasi Sertifikat Elektronik]({{< ref "/direktori/registrasi/Aktivasi-Sertifikat-Elektronik.md" >}})
+3. [Aktivasi Akun Pengusaha Kena Pajak]({{< ref "/direktori/registrasi/Aktivasi-Akun-Pengusaha-Kena-Pajak.md" >}})
+4. [Aktivasi Efin]({{< ref "/direktori/registrasi/Aktivasi-Efin.md" >}})
 
 ### Jangka Waktu Penyelesaian
 1. PKP > Paling lama 1 (satu) hari kerja terhitung setelah permohonan diterima lengkap.
