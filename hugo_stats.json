@@ -3,6 +3,7 @@
     "tags": [
       "!doctype",
       "a",
+      "blockquote",
       "body",
       "br",
       "button",
@@ -304,7 +305,6 @@
     ],
     "ids": [
       "aktivasi-akun-pengusaha-kena-pajak",
-      "aktivasi-efin-merupakan-bagian-dari-layanan-pelaporan-spt-masa-dan-tahunan",
       "aktivasi-electronic-filing-identification-number-efin",
       "anda-tidak-perlu-memikirkan-masalah-pajaknya",
       "aplikasi-pelaporan",
@@ -320,9 +320,11 @@
       "jangka-waktu-penyelesaian",
       "konfirmasi-status-wajib-pajak",
       "layanan-ini-diberikan-kepada",
+      "layanan-ini-termasuk",
       "legalisasi-surat-keterangan-bebas-pph-pasal-212223",
       "legalisasi-surat-keterangan-bebas-pph-pasal-212223-terkait-peraturan-pemerintah-nomor-46-tahun-2013",
       "newsIconTitle",
+      "paket-ini-termasuk",
       "pelaporan-spt-masa-pph-final-pengungkapan-harta-bersih",
       "pelaporan-spt-masa-pph-pasal-22",
       "pelaporan-spt-masa-pph-pasal-23-danatau-pasal-26-atau-ebukpot",
@@ -330,7 +332,6 @@
       "pelaporan-spt-masa-pph-pasal-4-ayat-2",
       "pelaporan-spt-masa-ppn-1107-pemungut",
       "pelaporan-spt-masa-ppn-1111-dm",
-      "pelaporan-usaha-dan-pengukuhan-pengusaha-kena-pajak",
       "pembahasan-hasil-pemeriksaan-oleh-tim-quality-assurance-pemeriksaan",
       "pembayaran-dan-penyetoran-pajak",
       "pemberitahuan-penggunaan-norma-penghitungan",
@@ -353,7 +354,8 @@
       "prosedur",
       "rocketIconTitle",
       "sertifikat-elektronik",
-      "statsIconTitle"
+      "statsIconTitle",
+      "wilayah-kerja"
     ]
   }
 }

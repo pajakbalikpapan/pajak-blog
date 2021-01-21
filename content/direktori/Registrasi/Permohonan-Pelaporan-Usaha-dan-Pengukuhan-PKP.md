@@ -9,22 +9,20 @@ categories_weight = 10
 price = 2000000
 startfrom = true
 +++
-### Pelaporan Usaha dan Pengukuhan Pengusaha Kena Pajak
-Layanan ini diberikan kepada Pengusaha yang melakukan penyerahan
-yang merupakan objek pajak sesuai Undang-Undang PPN yang
-melaporkan usahanya untuk dikukuhkan sebagai Pengusaha Kena
-Pajak.
+Layanan ini diberikan kepada Pengusaha yang melakukan penyerahan yang merupakan objek pajak sesuai Undang-Undang PPN yang melaporkan usahanya untuk dikukuhkan sebagai Pengusaha Kena Pajak.
 
-Persyaratan dan Dokumen
-1. Wajib Pajak orang pribadi:
-    - fotokopi Kartu Tanda Penduduk bagi Warga Negara Indonesia;
-    - fotokopi paspor, fotokopi Kartu Izin Tinggal Terbatas (KITAS)
-    - atau Kartu Izin Tinggal Tetap (KITAP) bagi Warga Negara Asing;
-    - surat pernyataan bermeterai dari Wajib Pajak yang menyatakan kegiatan usaha atau pekerjaan bebas yang dilakukan dan tempat atau lokasi kegiatan usaha atau pekerjaan bebas tersebut dilakukan.
-2. Wajib Pajak Badan:
-    - fotokopi akta pendirian atau dokumen pendirian dan perubahan bagi Wajib Pajak Badan dalam negeri, atau surat keterangan penunjukan dari kantor pusat bagi bentuk usaha tetap;
-    - fotokopi Kartu NPWP salah satu pengurus, atau fotokopi paspor dalam hal penanggung jawab adalah Warga Negara Asing dan tidak memiliki NPWP;
-    - surat pernyataan bermeterai dari salah satu pengurus Wajib Pajak Badan yang menyatakan kegiatan usaha yang dilakukan dan tempat atau lokasi kegiatan usaha tersebut dilakukan.
+### Layanan ini termasuk
+1. Pendaftaran Pengukuhan PKP
+2. Aktivasi Sertifikat Elektronik
+3. Aktivasi Akun Pengusaha Kena Pajak
+4. Aktivasi Efin
 
 ### Jangka Waktu Penyelesaian
-Paling lama 1 (satu) hari kerja terhitung setelah permohonan diterima lengkap.
+1. PKP > Paling lama 1 (satu) hari kerja terhitung setelah permohonan diterima lengkap.
+2. Aktivasi Sertifikat Elektronik > 1 - 2 minggu terhitung setelah permohonan diterima lengkap.
+3. Aktivasi Akun Pengusaha Kena Pajak > setelah aktivasi sertifikat elektronik 
+4. Aktivasi Efin > 1 (satu) hari kerja terhitung setelah permohonan diterima lengkap.
+tergantung KPP yang melakukan proses
+
+### Wilayah Kerja
+Khusus untuk daerah Balikpapan dan sekitarnya

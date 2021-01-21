@@ -14,7 +14,8 @@ Layanan ini diberikan kepada Wajib Pajak yang meyampaikan
 permohonan sebagai Wajib Pajak non-efektif karena tidak memenuhi
 persyaratan subjektif dan/atau objektif, tetapi belum dilakukan
 penghapusan NPWP.
-Prosedur
+
+### Prosedur
 Wajib Pajak menyampaikan permohonan Wajib Pajak Non-Efektif:
 1. secara elektronik dan disampaikan melalui saluran tertentu yang ditetapkan oleh Direktorat Jenderal Pajak; atau
 2.  tertulis disampaikan:
@@ -29,3 +30,6 @@ Wajib Pajak menyampaikan permohonan Wajib Pajak Non-Efektif:
 
 ### Jangka Waktu Penyelesaian
 Paling lambat 5 (lima) hari kerja setelah Bukti Penerimaan Surat (BPS) diterbitkan.
+
+### Wilayah Kerja
+seluruh Indonesia
