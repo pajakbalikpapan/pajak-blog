@@ -7,6 +7,12 @@
 /* Tailwind's utility classes - generated based on config file */
 @import "node_modules/tailwindcss/utilities";
 
-mark{
-    @apply text-red-450 bg-transparent !important;
-}
+@layer components {
+    .hero-font {
+      @apply max-w-xs mx-auto text-2xl font-bold text-center leading-snug text-gray-900 lg:max-w-2xl lg:text-5xl;
+    }
+
+    .subhero-font {
+        @apply mt-4 text-gray-700 text-center lg:max-w-xl lg:mx-auto lg:text-xl;
+    }
+    }
