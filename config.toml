@@ -19,3 +19,8 @@ author ="La Ode Adam Saputra"
 
 [taxonomies]
   category = "categories"
+
+[[menu.main]]
+    name = "Kontak"
+    weight = -100
+    url = "/contact/"
