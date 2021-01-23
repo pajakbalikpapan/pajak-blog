@@ -18,4 +18,4 @@ Layanan ini diberikan kepada Wajib Pajak untuk melakukan aktivasi Electronic Fil
 3. Wajib Pajak badan yang merupakan kantor cabang menyampaikan Formulir Permohonan Aktivasi EFIN ke KPP tempat Wajib Pajak terdaftar;
 4. Bendahara menyampaikan Formulir Permohonan Aktivasi EFIN dengan mendatangi secara langsung KPP tempat Wajib Pajak terdaftar.
 
-> Aktivasi EFIN merupakan bagian dari layanan Pendaftaran NPWP dan pelaporan SPT Masa dan Tahunan 
+> Aktivasi EFIN merupakan bagian dari layanan [Pendaftaran NPWP]({{< ref "/direktori/registrasi/Pendaftaran-Awal/index.md" >}}) dan pelaporan [SPT Masa dan Tahunan]({{< ref "/direktori/#pelaporan%20spt" >}})

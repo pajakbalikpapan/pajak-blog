@@ -13,6 +13,8 @@ summary = "Layanan ini diberikan kepada Wajib Pajak yang telah memenuhi persyara
 +++
 Layanan ini diberikan kepada Wajib Pajak yang telah memenuhi persyaratan subjektif dan objektif atau berdasarkan kehendak Wajib Pajak sendiri untuk memperoleh Nomor Pokok Wajib Pajak (NPWP) sebagai sarana dalam melaksanakan hak dan kewajiban perpajakan.
 
+![NPWP](npwp-balikpapan.png)
+
 ### Dokumen yang diperlukan
 1. bagi WNI, yaitu fotokopi KTP dan Kartu NPWP; atau
 2. bagi WNA, yaitu:

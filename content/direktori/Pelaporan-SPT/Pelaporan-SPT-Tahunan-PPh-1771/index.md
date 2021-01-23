@@ -3,7 +3,6 @@ title = "Pelaporan SPT Tahunan PPh Badan 1771"
 date = 2021-01-16T11:36:03+08:00
 draft = false
 weight = 10
-toc = false
 categories ="Pelaporan Spt"
 price = 2000000
 startfrom = true
@@ -12,6 +11,8 @@ summary = "Laporan Pajak untuk Badan usaha antara lain PT,CV Yayasan, Perkumpula
 +++
 Kewajiban untuk melaporkan penghitungan dan/atau pembayaran pajak, objek pajak dan/atau bukan pajak, dan/atau harta dan kewajiban
 sesuai dengan ketentuan peraturan perundang-undangan untuk suatu Tahun Pajak atau Bagian Tahun Pajak bagi Wajib Pajak badan.
+
+![SPT Tahunan Badan 1771](spt-tahunan-badan-1771.png)
 
 ### Prosedur
 Wajib Pajak badan menyampaikan SPT Tahunan:
