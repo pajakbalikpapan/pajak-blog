@@ -22,5 +22,9 @@ author ="La Ode Adam Saputra"
 
 [[menu.main]]
     name = "Kontak"
-    weight = -100
+    weight = 10
     url = "/contact/"
+[[menu.main]]
+    name = "About"
+    weight = 20
+    url = "/about/"
