@@ -7,7 +7,6 @@ toc = false
 categories ="Layanan Administrasi"
 price = 1
 +++
-### Permintaan Nomor Seri Faktur Pajak
 Layanan ini diberikan kepada Pengusaha Kena Pajak (PKP) yang mengajukan permintaan Nomor Seri Faktur Pajak.
 
 layanan ini bagian dari layanan SPT Masa PPN
