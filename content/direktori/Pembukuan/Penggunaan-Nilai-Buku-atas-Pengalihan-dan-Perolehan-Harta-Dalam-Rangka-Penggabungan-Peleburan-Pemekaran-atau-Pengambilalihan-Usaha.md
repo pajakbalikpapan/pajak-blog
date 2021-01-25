@@ -4,7 +4,7 @@ date = 2021-01-16T11:33:58+08:00
 draft = false
 weight = 10
 toc = false
-categories = "pembukuan"
+categories = "Pembukuan"
 price = 1
 +++
 ### Penggunaan Nilai Buku atas Pengalihan dan Perolehan Harta Dalam Rangka Penggabungan, Peleburan, Pemekaran, atau Pengambilalihan Usaha

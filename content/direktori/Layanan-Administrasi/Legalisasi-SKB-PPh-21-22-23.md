@@ -7,7 +7,6 @@ toc = false
 categories ="Layanan Administrasi"
 price = 1
 +++
-### Legalisasi Surat Keterangan Bebas PPh Pasal 21/22/23
 Layanan ini diberikan kepada Wajib Pajak yang mengajukan permohonan legalisasi Surat Keterangan Bebas PPh Pasal 21/22/23 yang telah diterima oleh Wajib Pajak.
 
 ### Prosedur
