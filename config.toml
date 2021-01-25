@@ -1,4 +1,4 @@
-baseURL = "https://pajakbalikpapan.github.io/"
+baseURL = "https://pajakbalikpapan.online/"
 languageCode = "en-us"
 title = "Layanan Pajak"
 theme = "kube"
@@ -9,11 +9,8 @@ author ="La Ode Adam Saputra"
   writeStats = true
 
 [params]
-  noindex_kinds = [
-    "taxonomy",
-    "taxonomyTerm"
-  ]
-
+  noindex_kinds = ["taxonomy", "taxonomyTerm"]
+  
 [Params.seo.webmaster_verifications]
   google = "UA-176078354-1" # Optional, Google verification code
 
